@@ -1,0 +1,75 @@
+body{
+    background-image: url(./assets/Photos/neno2.jpg)
+    
+}
+#id{
+    display: inline-block;
+}
+/* .container{
+    background-color:#CEE6F3 ;
+    width:10px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    top: 100px;
+    text-align: left;
+} */
+
+.companyname
+{
+    font-family: 'Libre Baskerville', serif;  
+}
+.container
+{
+    padding: 20px;
+    background-color: #CEE6F3 ;
+    position: relative;
+    top: 100px;
+    left: auto;
+    right: auto;
+    border-radius: 20px;
+}
+.quoute{
+    font-size: medium;
+    text-align: end;
+    font-family: 'Libre Baskerville', serif;
+}
+.userclass, .usernumber
+{
+    font-family: 'Libre Baskerville', serif;
+    padding: 5px;
+}
+.button
+{
+    text-align: center;
+    padding: 0px;
+}
+/* .form-check
+{
+    text-align: center;
+    padding: 20px;
+} */
+
+/* .form-check-label{
+    position: relative;
+    text-align: center;
+}
+
+.form-check-input
+{
+    position: relative;
+    left: 100px;
+} */
+
+.form-check 
+{
+    position: relative;
+    left: 0px;
+    text-align: center;
+    padding: 20px;
+}
+.form-check-input{
+    position: relative;
+    left: 20px;
+}
+
